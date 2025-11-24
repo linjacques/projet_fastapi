@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+pyjwt
+sqlalchemy
+pydantic
+requests
