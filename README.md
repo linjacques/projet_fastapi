@@ -9,7 +9,7 @@
    
 2. Construire **et** lancer le Container
    ```bash
-     docker run -d -p 8000:8000 fastapi-app
+     docker run -d -p 8000:8000 exemple_fastapi
    ```
    
    Explications :
